@@ -23,6 +23,11 @@ Tecnologías Implementadas
 -  El correo sigue una expresión regular para validar que su formato sea el correcto.
 -   La clave sigue una expresión regular para validar que formato sea el correcto.
 
-Diagrama de la solución
+Solución
 
-Ejecución con maven y Java clonar el proyecto $ https://github.com/BacinoAilin/NISUM_LOGIN Ir al directorio del proyecto $ cd nisum/ Generar jar del proyecto $ mvn clean install Correr proyecto con Maven $ mvn spring-boot:run
+- Ejecución con maven y Java 
+- clonar el proyecto $ https://github.com/BacinoAilin/NISUM_LOGIN
+-  Ir al directorio del proyecto $ cd nisum/ 
+-  Generar jar del proyecto 
+-  $ mvn clean install 
+-  Correr proyecto con Maven $ mvn spring-boot:run
