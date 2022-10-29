@@ -6,18 +6,22 @@ Autora: Bacino Ailin
 
 Tecnologías Implementadas
 
-JDK 11
-Spring Boot
-Git
-Maven
-JPA
-Hibernate
-H2
-Pruebas Unitarias con Junit
-Token JWT
-Todos los mensajes siguen el formato: {"mensaje": "mensaje de error"}
+- JDK 11
+- Spring Boot
+- Git
+- Maven
+- JPA
+- Hibernate
+- H2
+- Pruebas Unitarias con Junit
+- Token JWT
 
-Si el correo existe en la base de datos, retorna un error "El correo ya está registrado". El correo sigue una expresión regular para validar que su formato sea el correcto. La clave sigue una expresión regular para validar que formato sea el correcto.
+
+- Todos los mensajes siguen el formato: {"mensaje": "mensaje de error"}
+
+- Si el correo existe en la base de datos, retorna un error "El correo ya está registrado".
+-  El correo sigue una expresión regular para validar que su formato sea el correcto.
+-   La clave sigue una expresión regular para validar que formato sea el correcto.
 
 Diagrama de la solución
 
